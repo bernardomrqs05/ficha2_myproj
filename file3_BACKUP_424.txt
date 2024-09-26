@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 Este é o exemplo de um ficheiro de texto file3
 
 <h2>Bebidas</h2>
@@ -8,7 +8,7 @@ Este é o exemplo de um ficheiro de texto file3
   <li>Tea</li>
   <li>Milk</li>
 </ul>  
-
+=======
 <h1>Listas de coisas</h1>
 
 <h2>Comidas</h2>
@@ -18,4 +18,4 @@ Este é o exemplo de um ficheiro de texto file3
   <li>Tostas</li>
   <li>Sandes</li>
 </ul>
-
+>>>>>>> NovaFeature
